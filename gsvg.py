@@ -28,7 +28,7 @@ r = raw_input()
                             
                             
                             
-    print ("<circle "cx"=\"cx\" "cy"=\"500\" "r"=\"r\" "stroke"=\"black\" "stroke-width"=\"2\" "fill=\"transparent\"/>")
+    print ("<circle "cx"=\"cx\" "cy"=\"500\" "r"=\"r\" "stroke"=\"black\" "stroke-width"=\"2\" "fill=\"transparent\"\/>")
 
 elif element ==2:
     
